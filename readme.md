@@ -9,10 +9,10 @@ This game is built using :
 - Android Studio
 
 ## Screenshots
-![Screenshot_1578034259](https://user-images.githubusercontent.com/48901714/190985769-db4afd34-70dc-4bd8-a178-6a3aede5b4bc.png)
-![Screenshot_1578034266](https://user-images.githubusercontent.com/48901714/190985788-9fb40e62-bff7-4795-81b0-af5f94e568a0.png)
-![Screenshot_1578034267](https://user-images.githubusercontent.com/48901714/190985797-8933b8e6-d0d3-435a-a1e4-313acf1c8f45.png)
-![Screenshot_1578034285](https://user-images.githubusercontent.com/48901714/190985803-55338639-b7cd-4a40-8ccb-23baf8323d6f.png)
-![Screenshot_1578034288](https://user-images.githubusercontent.com/48901714/190985810-796a201d-46d2-458e-9c4c-a2cf8c98cda3.png)
-![Screenshot_1578034297](https://user-images.githubusercontent.com/48901714/190985819-010db771-c726-4a41-9b4f-d72301bfed01.png)
-![Screenshot_1578033964](https://user-images.githubusercontent.com/48901714/190985827-a1a3908a-bed4-4fd8-8e95-5c747e1148e8.png)
+![Screenshot_1578033964](https://user-images.githubusercontent.com/48901714/190986031-41b5d02c-111d-44a2-a063-652610c849b2.png)
+![Screenshot_1578034285](https://user-images.githubusercontent.com/48901714/190986061-ba19d051-95da-48d4-8d14-809ce21e2dc8.png)
+![Screenshot_1578034266](https://user-images.githubusercontent.com/48901714/190986073-3577c0cc-1f27-4765-89d7-7f932207f9bc.png)
+![Screenshot_1578034267](https://user-images.githubusercontent.com/48901714/190986087-e18f86d2-9360-440e-acee-0db9042ab569.png)
+![Screenshot_1578034288](https://user-images.githubusercontent.com/48901714/190986097-435d8daf-6b71-4b1f-beeb-73f949037be2.png)
+![Screenshot_1578034259](https://user-images.githubusercontent.com/48901714/190986113-21b7a657-605a-49f9-b16e-ee27a6b7ab09.png)
+![Screenshot_1578034297](https://user-images.githubusercontent.com/48901714/190986139-679c3853-7aef-4c4b-803b-a74366840f10.png)
