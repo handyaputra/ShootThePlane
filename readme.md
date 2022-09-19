@@ -2,6 +2,10 @@
 
 Shoot The Plane was a Action-Shooter Games about your plane (on the left) shooting enemy's plane (on the right) using infinite missiles that you have.
 
+Goals : shoot as many enemy's plane as possible, achieve the highest score!
+
+Controls : click on the empty space available (from a grid with nine square) to place your symbol (O).
+
 Controls : click / touch left side of screen to control your plane height, and click / touch right side of screen to shoot your missiles.
 
 It was my Final Project of Mobile App Development Courses.
